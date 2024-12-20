@@ -1,0 +1,60 @@
+{
+    "Turtle_1": {
+        "leg1": {
+            "spool_id": "",
+            "material": "",
+            "color": "#000000",
+            "weight": 0,
+            "command": null,
+            "index": 1,
+            "tool_loaded": false,
+            "hub_loaded": true,
+            "runout_lane": "NONE",
+            "map": "T0",
+            "filament_status": "Not Ready",
+            "filament_status_led": "#ff0000"
+        },
+        "leg2": {
+            "spool_id": "",
+            "material": "",
+            "color": "#000000",
+            "weight": 0,
+            "command": null,
+            "index": 2,
+            "tool_loaded": true,
+            "hub_loaded": true,
+            "runout_lane": "NONE",
+            "map": "T1",
+            "filament_status": "Not Ready",
+            "filament_status_led": "#ff0000"
+        },
+        "leg3": {
+            "spool_id": "",
+            "material": "",
+            "color": "#000000",
+            "weight": 0,
+            "command": null,
+            "index": 3,
+            "tool_loaded": false,
+            "hub_loaded": true,
+            "runout_lane": "NONE",
+            "map": "T2",
+            "filament_status": "Not Ready",
+            "filament_status_led": "#ff0000"
+        },
+        "leg4": {
+            "spool_id": "",
+            "material": "",
+            "color": "#000000",
+            "weight": 0,
+            "command": null,
+            "index": 4,
+            "tool_loaded": false,
+            "hub_loaded": true,
+            "runout_lane": "NONE",
+            "map": "T3",
+            "filament_status": "Not Ready",
+            "filament_status_led": "#ff0000"
+        }
+    }
+}
